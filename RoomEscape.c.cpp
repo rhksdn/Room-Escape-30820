@@ -1,3 +1,8 @@
+/*
+개발자 : 정관우, 김태현 
+개발일 : 2021.09.03
+문의 : hello@gmail.com 
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
